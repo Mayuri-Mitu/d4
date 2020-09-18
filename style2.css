@@ -1,0 +1,29 @@
+body{
+  margin: auto;
+  background-color: #D4EBF9;
+  margin: 50px;
+  padding: 20px;
+}
+#img1{
+  width: 200px;
+  float: right;
+}
+#head2{
+  color: #7C520E;
+}
+.head4{
+  font-family: cursive;
+  color: #01235C;
+}
+.img2{
+
+  width: 300px;
+  float: right;
+  padding: 20px;
+  border-radius: 10%;
+
+}
+h1{
+  font-family: serif;
+  color: #832170;
+}
